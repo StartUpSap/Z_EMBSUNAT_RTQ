@@ -1,0 +1,4 @@
+@EndUserText.label: 'Extraer datos'
+define service ZC_I_DESUN_01 {
+  expose ZC_I_DESUN_01;
+}

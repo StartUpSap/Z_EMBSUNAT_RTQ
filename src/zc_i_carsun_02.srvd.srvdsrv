@@ -1,0 +1,4 @@
+@EndUserText.label: 'Carga txt Embargo SUNAT'
+define service ZC_I_CARSUN_02 {
+  expose ZC_I_CARSUN_02;
+}

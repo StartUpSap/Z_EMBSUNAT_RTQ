@@ -1,0 +1,4 @@
+@EndUserText.label: 'Descarga SUNAT txt'
+define service ZC_I_DESUN_02 {
+  expose ZC_I_DESUN_02;
+}
